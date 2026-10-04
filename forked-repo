@@ -1,0 +1,10 @@
+$ curl -L https://api.github.com/repos/Mridula45/mcino-Introduction-to-Git-and-GitHub
+
+"full_name": "Mridula45/mcino-Introduction-to-Git-and-GitHub",
+...
+"fork": true,
+...
+"parent": {
+    ...
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+}
